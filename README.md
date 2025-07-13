@@ -1,7 +1,7 @@
 
 ---
 
-## 👥 Team Contributions
+## 👥 Team work
 
 Each team maintains their own folder:
 - 🔧 `backend-java/` → Java backend team
@@ -31,7 +31,7 @@ We recommend rendering this using a static site generator like:
 
 ---
 
-## 🧩 Contribution Guidelines
+## 🧩 Work Guidelines
 
 Please follow these steps when contributing:
 1. Create a new `.md` file inside your team folder.
