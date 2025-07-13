@@ -1,0 +1,24 @@
+# IDE/editor cofigs
+.idea/
+.vscode/
+*.iml
+
+# OS system junk
+.DS_Store
+.Thumbs.db
+.desktop.ini
+
+# Log files
+*.log
+
+# Pythone files
+__pyche__/
+*.pyc
+.ipyb_checkpoints/
+
+# Editor temp files (vim etc)
+*.swp
+*.swo
+
+
+
