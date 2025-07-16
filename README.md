@@ -1,42 +1,137 @@
+# 🧠 Brainz Documentation Hub – Team Overview & Structure
+
+Welcome to the **Brainz Organization’s Unified Documentation Hub**, powered by **Docusaurus** 🦖. This is the centralized, structured, and versioned space where all teams within the Brainz ecosystem maintain high-quality technical documentation, specifications, integration guides, and internal APIs.
 
 ---
 
-## 👥 Team work
+## 🎯 Why Docusaurus?
 
-Each team maintains their own folder:
-- 🔧 `backend-java/` → Java backend team
-- 🧠 `llm-core/` → AI/LLM team
-- 🎨 `frontend/` → Frontend React team
-- ⚙️ `devops/` → DevOps & Cloud team
-- 📚 `general/` → Common guidelines, onboarding, tips
-
----
-
-## 💡 How to Use
-
-- Add any useful guide, tutorial, or design doc under your team’s folder.
-- Use lowercase filenames with hyphens: `how-to-use-jwt.md`
-- Link related docs in your `.md` files when useful.
+Docusaurus allows us to:
+- Create developer-friendly documentation.
+- Easily maintain and version docs per feature or release.
+- Standardize formatting across multiple teams.
+- Serve docs via a static site that's fast and searchable.
 
 ---
 
-## 🚀 Static Site Generation (Optional)
+## 🧩 Project Overview – Brainz
 
-We recommend rendering this using a static site generator like:
-- [Docusaurus](https://docusaurus.io/)
-- [Docsify](https://docsify.js.org/)
-- [MkDocs](https://www.mkdocs.org/)
-
-> This helps you make the knowledge base **browsable and beginner-friendly**.
+**Brainz** is an AI-first social platform where users create, train, and unleash their own AI minds ("Brainz") — building a playful ecosystem of competitive, evolving digital personalities.
 
 ---
 
-## 🧩 Work Guidelines
+## 🧱 Teams & Documentation Scope
 
-Please follow these steps when contributing:
-1. Create a new `.md` file inside your team folder.
-2. Use proper headings (`##`), code blocks (```) and bullet points.
-3. Submit a Pull Request with a clear commit message.
+All teams listed below are responsible for writing, maintaining, and updating their technical documentation **inside this Docusaurus site** in their respective folders (`/docs/<team-name>/`). Below is the purpose and scope for each:
 
 ---
+
+### 🔧 `backend-java/`
+
+#### 🔹 Purpose:
+This team owns the core backend logic of Brainz, including services, APIs, databases, authentication, and internal business logic.
+
+#### 📘 Documentation Scope:
+- API endpoints and OpenAPI specs
+- Authentication and authorization
+- Microservices architecture
+- Build tools, CI/CD pipelines
+- Integration guides
+- Internal backend standards
+
+---
+
+### 🌐 `frontend-web/`
+
+#### 🔹 Purpose:
+Responsible for building and maintaining the web-based UI/UX for Brainz, ensuring responsive, accessible, and performant user experiences.
+
+#### 📘 Documentation Scope:
+- Component libraries and UI patterns
+- State management (e.g., Redux, Zustand)
+- Webpack/Vite or build tools setup
+- Page and route structure
+- API integration strategies
+- Testing (unit/E2E)
+
+---
+
+### 📱 `frontend-native/`
+
+#### 🔹 Purpose:
+Builds and maintains the **mobile-native apps** (Android/iOS) for Brainz using frameworks like **React Native**, **Kotlin**, or **Swift**.
+
+#### 📘 Documentation Scope:
+- App architecture and navigation
+- Platform-specific configurations
+- Native module integration
+- Permissions, storage, notifications
+- OTA updates and Play Store/App Store guidelines
+- CI/CD pipelines for mobile
+
+---
+
+### 🖥️ `desktop/`
+
+#### 🔹 Purpose:
+Creates cross-platform **desktop clients** (Windows, macOS, Linux) for Brainz using technologies like **Electron**, **Tauri**, or **native stacks**.
+
+#### 📘 Documentation Scope:
+- Desktop build configuration
+- Packaging and distribution
+- IPC communication patterns
+- Update strategies
+- Native APIs used (file system, tray, etc.)
+- Security considerations
+
+---
+
+### 🧠 `llm-core/`
+
+#### 🔹 Purpose:
+Designs, integrates, and maintains the core **AI/LLM systems** that power Brainz’s intelligent features — including personality modeling, prompt engineering, memory, and training pipelines.
+
+#### 📘 Documentation Scope:
+- LLM APIs and inference strategies
+- Personality architecture
+- Training data structure and guidelines
+- Prompt design templates
+- Safety, ethics, and moderation strategies
+- Evaluation and benchmarking
+
+---
+
+## ✅ Documentation Guidelines (for all teams)
+
+- Use **Markdown** with Docusaurus formatting.
+- Include **diagrams** where necessary (PlantUML, Mermaid supported).
+- Keep docs versioned with clear changelogs.
+- Always document:
+    - Setup & onboarding
+    - Architecture decisions
+    - Contribution guides
+    - Testing and deployment workflows
+- Use `README.md` in each subfolder as an entry point.
+
+---
+
+## 📁 Folder Structure Example
+
+```brainz-docs/
+├── docs/
+│ ├── backend-java/
+│ ├── frontend-web/
+│ ├── frontend-native/
+│ ├── desktop/
+│ └── llm-core/
+├── docusaurus.config.js
+├── sidebars.js
+└── ...
+```
+
+---
+
+By centralizing documentation in this manner, we ensure **cross-team transparency**, **onboarding speed**, and a **living source of truth** for all contributors at Brainz.
+
+Let’s keep shipping, scaling, and documenting 🚀
 
