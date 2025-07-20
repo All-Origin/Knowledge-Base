@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Brainz Feature Simulations: Real-World User Feedback \& Reactions
 
 This document imagines how actual users would interact with each core feature of Brainz, providing concrete simulation stories, likely reactions, loved aspects, and pain points.
