@@ -1,6 +1,6 @@
 # 🧠 LLM Core Team – Overview
 
-The **LLM Core Team** is at the heart of Brainz’s AI innovation — responsible for everything related to large language models (LLMs), AI agents, and digital personality behavior.
+The **LLM Core Team** is at the heart of Junior’s AI innovation — responsible for everything related to large language models (LLMs), AI agents, and digital personality behavior.
 
 ## 🔍 Responsibilities
 - Designing LLM prompt templates and fine-tuning strategies.

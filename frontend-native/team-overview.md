@@ -1,6 +1,6 @@
 # 📱 Frontend Native Team – Overview
 
-The **Frontend Native Team** is in charge of building the mobile applications (iOS and Android) for Brainz, ensuring a seamless native experience.
+The **Frontend Native Team** is in charge of building the mobile applications (iOS and Android) for Junior, ensuring a seamless native experience.
 
 ## 🔍 Responsibilities
 - Developing mobile apps using React Native, Kotlin, or Swift.

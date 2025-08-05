@@ -1,11 +1,11 @@
 
 
-### 📘 `git-workflow-guide.md` – BrainZ Git Workflow & Push Guide
+### 📘 `git-workflow-guide.md` – Junior Git Workflow & Push Guide
 
 ````md
-# 🚀 BrainZ Git Workflow & Branching Guide
+# 🚀 Junior Git Workflow & Branching Guide
 
-This document provides best practices and tips for working with Git in the BrainZ organization — especially across teams like Java Backend, LLM Core, DevOps, and Frontend.
+This document provides best practices and tips for working with Git in the Junior organization — especially across teams like Java Backend, LLM Core, DevOps, and Frontend.
 
 ---
 
@@ -150,7 +150,7 @@ docs(readme): update setup section
 
 ### ✨ work responsibly, push mindfully, and code confidently.
 
-*– BrainZ Engineering Team*
+*– Junior Ai Engineering Team*
 
 
 

@@ -1,9 +1,9 @@
 
-## 🧠 BrainX MVP Frontend – Overview
+## 🧠 Junior MVP Frontend – Overview
 
 ### 📌 Objective:
 
-Create a **multi-role SaaS dashboard** for "BrainX" that enables:
+Create a **multi-role SaaS dashboard** for "Junior" that enables:
 
 * Admins to manage users/roles/settings
 * Users to log in and perform role-specific tasks
