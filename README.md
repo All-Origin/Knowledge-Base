@@ -1,6 +1,6 @@
-# 🧠 Brainz Documentation Hub – Team Overview & Structure
+# 🧠 Junior Ai Documentation Hub – Team Overview & Structure
 
-Welcome to the **Brainz Organization’s Unified Documentation Hub**, powered by **Docusaurus** 🦖. This is the centralized, structured, and versioned space where all teams within the Brainz ecosystem maintain high-quality technical documentation, specifications, integration guides, and internal APIs.
+Welcome to the **Junior Ai Organization’s Unified Documentation Hub**, powered by **Docusaurus** 🦖. This is the centralized, structured, and versioned space where all teams within the Junior ecosystem maintain high-quality technical documentation, specifications, integration guides, and internal APIs.
 
 ---
 
@@ -14,9 +14,9 @@ Docusaurus allows us to:
 
 ---
 
-## 🧩 Project Overview – Brainz
+## 🧩 Project Overview – Junior
 
-**Brainz** is an AI-first social platform where users create, train, and unleash their own AI minds ("Brainz") — building a playful ecosystem of competitive, evolving digital personalities.
+**Junior** is an AI-first social platform where users create, train, and unleash their own AI minds ("Junior") — building a playful ecosystem of competitive, evolving digital personalities.
 
 ---
 
@@ -29,7 +29,7 @@ All teams listed below are responsible for writing, maintaining, and updating th
 ### 🔧 `backend-java/`
 
 #### 🔹 Purpose:
-This team owns the core backend logic of Brainz, including services, APIs, databases, authentication, and internal business logic.
+This team owns the core backend logic of Junior, including services, APIs, databases, authentication, and internal business logic.
 
 #### 📘 Documentation Scope:
 - API endpoints and OpenAPI specs
@@ -44,7 +44,7 @@ This team owns the core backend logic of Brainz, including services, APIs, datab
 ### 🌐 `frontend-web/`
 
 #### 🔹 Purpose:
-Responsible for building and maintaining the web-based UI/UX for Brainz, ensuring responsive, accessible, and performant user experiences.
+Responsible for building and maintaining the web-based UI/UX for Junior, ensuring responsive, accessible, and performant user experiences.
 
 #### 📘 Documentation Scope:
 - Component libraries and UI patterns
@@ -59,7 +59,7 @@ Responsible for building and maintaining the web-based UI/UX for Brainz, ensurin
 ### 📱 `frontend-native/`
 
 #### 🔹 Purpose:
-Builds and maintains the **mobile-native apps** (Android/iOS) for Brainz using frameworks like **React Native**, **Kotlin**, or **Swift**.
+Builds and maintains the **mobile-native apps** (Android/iOS) for Junior using frameworks like **React Native**, **Kotlin**, or **Swift**.
 
 #### 📘 Documentation Scope:
 - App architecture and navigation
@@ -74,7 +74,7 @@ Builds and maintains the **mobile-native apps** (Android/iOS) for Brainz using f
 ### 🖥️ `desktop/`
 
 #### 🔹 Purpose:
-Creates cross-platform **desktop clients** (Windows, macOS, Linux) for Brainz using technologies like **Electron**, **Tauri**, or **native stacks**.
+Creates cross-platform **desktop clients** (Windows, macOS, Linux) for Junior using technologies like **Electron**, **Tauri**, or **native stacks**.
 
 #### 📘 Documentation Scope:
 - Desktop build configuration
@@ -89,7 +89,7 @@ Creates cross-platform **desktop clients** (Windows, macOS, Linux) for Brainz us
 ### 🧠 `llm-core/`
 
 #### 🔹 Purpose:
-Designs, integrates, and maintains the core **AI/LLM systems** that power Brainz’s intelligent features — including personality modeling, prompt engineering, memory, and training pipelines.
+Designs, integrates, and maintains the core **AI/LLM systems** that power Junior’s intelligent features — including personality modeling, prompt engineering, memory, and training pipelines.
 
 #### 📘 Documentation Scope:
 - LLM APIs and inference strategies
@@ -117,7 +117,7 @@ Designs, integrates, and maintains the core **AI/LLM systems** that power Brainz
 
 ## 📁 Folder Structure Example
 
-```brainz-docs/
+```Junior-docs/
 ├── docs/
 │ ├── backend-java/
 │ ├── frontend-web/
@@ -131,7 +131,7 @@ Designs, integrates, and maintains the core **AI/LLM systems** that power Brainz
 
 ---
 
-By centralizing documentation in this manner, we ensure **cross-team transparency**, **onboarding speed**, and a **living source of truth** for all contributors at Brainz.
+By centralizing documentation in this manner, we ensure **cross-team transparency**, **onboarding speed**, and a **living source of truth** for all contributors at Junior.
 
 Let’s keep shipping, scaling, and documenting 🚀
 
