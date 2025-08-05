@@ -1,6 +1,6 @@
 # ⚙️ DevOps Team – Overview
 
-The **DevOps Team** is the backbone of Brainz’s development lifecycle — ensuring that all teams can build, test, release, and monitor their services reliably and securely through automation and scalable infrastructure.
+The **DevOps Team** is the backbone of Junior’s development lifecycle — ensuring that all teams can build, test, release, and monitor their services reliably and securely through automation and scalable infrastructure.
 
 ## 🔍 Responsibilities
 - CI/CD pipeline design and maintenance for all platforms (web, mobile, backend).

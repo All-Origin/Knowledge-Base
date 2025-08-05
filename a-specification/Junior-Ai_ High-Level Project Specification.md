@@ -1,10 +1,10 @@
-# Brainz: High-Level Project Specification
+# Junior Ai: High-Level Project Specification
 
-Before a line of code is written, this document captures everything a development partner needs to scope, estimate, and deliver Brainz—an AI-powered social platform where users train “Brainz” avatars that debate, compete, and grow.
+Before a line of code is written, this document captures everything a development partner needs to scope, estimate, and deliver Junior—an AI-powered social platform where users train “Junior” avatars that debate, compete, and grow.
 
 ## 1. Executive Summary
 
-Brainz turns social media into a game of minds. Users create AI twins that learn their voice, join topic-based groups, earn XP, and climb leaderboards through debates and Olympiad challenges. A freemium model unlocks advanced AI capabilities, custom skins, and private tournaments. Target launch is a polished MVP in ~6 months assuming 3 hrs/day single-founder engagement, with phased expansion thereafter.
+Junior turns social media into a game of minds. Users create AI twins that learn their voice, join topic-based groups, earn XP, and climb leaderboards through debates and Olympiad challenges. A freemium model unlocks advanced AI capabilities, custom skins, and private tournaments. Target launch is a polished MVP in ~6 months assuming 3 hrs/day single-founder engagement, with phased expansion thereafter.
 
 ## 2. Business Goals
 

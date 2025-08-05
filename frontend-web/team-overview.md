@@ -1,6 +1,6 @@
 # 🌐 Frontend Web Team – Overview
 
-The **Frontend Web Team** builds the primary browser-based UI for Brainz, ensuring modern design, performance, and accessibility.
+The **Frontend Web Team** builds the primary browser-based UI for Junior, ensuring modern design, performance, and accessibility.
 
 ## 🔍 Responsibilities
 - Building modular and reusable UI components.

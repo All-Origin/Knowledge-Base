@@ -1,4 +1,4 @@
-# Docusaurus Site Organization for Brainz Knowledge Base
+# Docusaurus Site Organization for Junior Knowledge Base
 
 ## 1. Homepage
 - **Project overview**: Vision, elevator pitch, and branding.
