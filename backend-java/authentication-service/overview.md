@@ -4,9 +4,8 @@
 ## 🎯 **Our Aim (Vision Statement)**
 
 > **To build a reusable, production-grade, plug-and-play authentication service that handles everything a project needs for secure user access — with APIs and integrations that save dev teams 100+ hours.**
-
 ---
-
+**Author:** Jeet Solanki
 ## 🛠️ **Core Functional Goals**
 
 | Area                             | Goals                                |
