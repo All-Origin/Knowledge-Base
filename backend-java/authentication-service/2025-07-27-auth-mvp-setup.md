@@ -60,7 +60,6 @@ It explains what has been implemented, how the service is organized, current cap
 - Set the `JWT_SECRET` environment variable securely in production.
 - Implement the UserService microservice for user registration, validation, and profile management.
 - Add more tests (unit, integration, security).
-- Add API documentation (e.g., Swagger/OpenAPI).
 - Add exception handling and error responses.
 - Add monitoring/health checks (Spring Boot Actuator).
 - (Optional) Add rate limiting, logging, and audit features.
@@ -86,6 +85,6 @@ It explains what has been implemented, how the service is organized, current cap
 
 ---
 
-[//]: # (**Last updated:** none)
+ **Last updated:** 2025-08-05
 
-[//]: # (**Author:** xyz )
+ **Author:** Jeet Solanki 
